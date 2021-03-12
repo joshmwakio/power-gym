@@ -1,3 +1,5 @@
+##Read me First
+
 This *GYM website* is written and authored by **[Josh Mwakio](https://ke.linkedin.com/in/josh-mwakio-184a57b6)**.
 
 Credits to [CREATIVE TIM](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation), [AOS](https://michalsnik.github.io/aos/) & [TAILWINDCSS](tailwindcss.com) for such **Awesome** Libraries
